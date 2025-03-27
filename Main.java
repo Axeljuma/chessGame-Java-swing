@@ -1,6 +1,8 @@
 // Created by Ayush Adhikari
 /* This is my first project and it was made using java swing and awt. By no means is this code efficeint or ideal, however it works(at least in my trials) and
 that is enough for me.
+
+This code does require javafx which is available here: https://gluonhq.com/products/javafx/
 */
 
 package chessGame;
